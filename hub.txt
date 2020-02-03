@@ -1,0 +1,5 @@
+hub RNApolII_inhibition
+shortLabel RNApolII_inhibition
+longLabel RNApolII_inhibition
+genomesFile genomes.txt 
+email svetlana.kalmykova@skoltech.ru
