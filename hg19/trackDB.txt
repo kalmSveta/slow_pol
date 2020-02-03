@@ -12,16 +12,16 @@ bigDataUrl DRB_10_ng_mL_treck.bb
 shortLabel DRB_10_ng_mL
 longLabel DRB_10_ng_mL
 
-track a_amanitin_2_mcg_m
+track a_amanitin_2_mcg_mL
 type bigBed 9 +
 itemRgb on
 bigDataUrl a_amanitin_2_mcg_mL_treck.bb 
-shortLabel a_amanitin_2_mcg_m
-longLabel a_amanitin_2_mcg_m
+shortLabel a_amanitin_2_mcg_mL
+longLabel a_amanitin_2_mcg_mL
 
-track a_amanitin_1_mcg_m
+track a_amanitin_1_mcg_mL
 type bigBed 9 +
 itemRgb on
 bigDataUrl a_amanitin_1_mcg_mL_treck.bb
-shortLabel a_amanitin_1_mcg_m
-longLabel a_amanitin_1_mcg_m
+shortLabel a_amanitin_1_mcg_mL
+longLabel a_amanitin_1_mcg_mL
