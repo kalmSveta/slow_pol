@@ -9,19 +9,19 @@ track DRB_10_ng_mL
 type bigBed 9 +
 itemRgb on
 bigDataUrl DRB_10_ng_mL_treck.bb
-shortLabel DRB_25_ng_mL
-longLabel DRB_25_ng_mL
+shortLabel DRB_10_ng_mL
+longLabel DRB_10_ng_mL
 
 track a_amanitin_2_mcg_m
 type bigBed 9 +
 itemRgb on
 bigDataUrl a_amanitin_2_mcg_mL_treck.bb 
-shortLabel DRB_25_ng_mL
-longLabel DRB_25_ng_mL
+shortLabel a_amanitin_2_mcg_m
+longLabel a_amanitin_2_mcg_m
 
 track a_amanitin_1_mcg_m
 type bigBed 9 +
 itemRgb on
 bigDataUrl a_amanitin_1_mcg_mL_treck.bb
-shortLabel DRB_25_ng_mL
-longLabel DRB_25_ng_mL
+shortLabel a_amanitin_1_mcg_m
+longLabel a_amanitin_1_mcg_m
